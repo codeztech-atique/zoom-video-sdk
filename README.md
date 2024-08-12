@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Zoom Video SDK with Iframe
+
+npm install
+npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
